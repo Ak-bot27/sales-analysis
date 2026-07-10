@@ -50,5 +50,5 @@ Connect to live data sources.
 Author
 Anjali Khadse
 
-Aspiring Data Analyst | Power BI | Excel | SQL | Data Visualization
+Aspiring Data Analyst | Excel | Data Visualization
 If you found this project helpful, feel free to star the repository.
